@@ -1,4 +1,4 @@
-# co014428e8642aa862044633d
+# war-game deck
 
 Quick start:
 
